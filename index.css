@@ -36,9 +36,18 @@ a.active {
     border-bottom: 1px solid black;
 }
 
-img {
+.card {
     width: 40%;
-    
+    display: inline-block;
+}
+
+.card img {
+    height: 400px;
+    width: 100%;
+}
+
+.card h2 {
+    display: inline-block;
 }
 
 
